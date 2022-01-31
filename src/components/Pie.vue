@@ -1,7 +1,7 @@
 <template>
   <footer id="pie">
     <div>
-      <a href="http://"
+      <a href="https://vacunacovidoutlet.netlify.app/"
         ><img class="logo" src="../assets/logo.png" alt="logotipo"
       /></a>
     </div>
