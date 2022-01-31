@@ -1,7 +1,9 @@
 <template>
   <section id="menu">
     <div class="container">
-      <img src="../assets/logo.png" alt="Logotipo" />
+      <a href="https://vacunacovidoutlet.netlify.app/."
+        ><img src="../assets/logo.png" alt="Logotipo"
+      /></a>
     </div>
     <ul>
       <li><a href="#">INICIO</a></li>
